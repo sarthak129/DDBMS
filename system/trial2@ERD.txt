@@ -1,0 +1,25 @@
+#######################DATABASE NAME#######################
+trial2
+ 
+ 
+#######################TABLE NAME#######################
+user
+
+######STRUCTURE######
+
+column name: user_id
+column type: int
+ 
+column name:  user_name
+column type:  varchar
+ 
+column name:  user_email
+column type:  varchar
+ 
+
+######KEY######
+
+primary key: 
+foreign key:  to 
+
+####################################################

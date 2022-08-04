@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Data_Project" />
+        <module name="untitled" />
+        <module name="csci-5408-w2022-group-19" />
+        <module name="D2_DB_5408_DPG_19" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

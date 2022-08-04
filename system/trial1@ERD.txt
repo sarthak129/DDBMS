@@ -1,0 +1,72 @@
+#######################DATABASE NAME#######################
+trial1
+ 
+ 
+#######################TABLE NAME#######################
+todo2
+
+######STRUCTURE######
+
+column name: todo_id
+column type: int
+ 
+column name:  todo
+column type:  varchar
+ 
+column name:  is_completed
+column type:  boolean
+ 
+
+######KEY######
+
+primary key: todo_id
+foreign key: task_id to tasks.task_id
+
+####################################################
+ 
+ 
+#######################TABLE NAME#######################
+todo1
+
+######STRUCTURE######
+
+column name: todo_id
+column type: int
+ 
+column name:  todo
+column type:  varchar
+ 
+column name:  is_completed
+column type:  boolean
+ 
+
+######KEY######
+
+primary key: todo_id
+foreign key: task_id to tasks.task_id
+foreign key:  task_id to  tasks.task_id
+
+####################################################
+ 
+ 
+#######################TABLE NAME#######################
+todo
+
+######STRUCTURE######
+
+column name: todo_id
+column type: int
+ 
+column name:  todo
+column type:  varchar
+ 
+column name:  is_completed
+column type:  boolean
+ 
+
+######KEY######
+
+primary key: todo_id
+foreign key: task_id to tasks.task_id
+
+####################################################

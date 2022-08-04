@@ -1,0 +1,1 @@
+[todo_id, todo, is_completed]₈[6₇some good sleep₇true]₈[2₇make dinner₇false]₈[3₇have some sleep₇false]₈[4₇just lunch₇true]₈[11₇not good day₇true]₈

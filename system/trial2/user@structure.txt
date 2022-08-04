@@ -1,0 +1,1 @@
+[user_id, user_name, user_email]₈[int, varchar, varchar]

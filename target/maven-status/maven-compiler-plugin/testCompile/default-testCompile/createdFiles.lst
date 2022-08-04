@@ -1,0 +1,7 @@
+Query\Process\UseTest.class
+Query\Process\DeleteTest.class
+Query\Process\InsertTest.class
+Query\Process\UpdateTest.class
+Query\Process\CreateTest.class
+Query\Process\SelectTest.class
+Query\Process\CommonTest.class

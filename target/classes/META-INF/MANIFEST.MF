@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: sarth
+Build-Jdk: 17.0.2
+Main-Class: RunDDBMS
+Created-By: Maven Integration for Eclipse
+
